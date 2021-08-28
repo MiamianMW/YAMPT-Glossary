@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!--CHOROBY-->
+<record>
+	<_id>Glossary</_id>
+	<key>Astral Vapors</key>
+	<val>opary astralne</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ataxia</key>
+	<val>ataksja</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Blood Lung</key>
+	<val>krwawe płuco</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Blood Rot</key>
+	<val>zgnilizna krwi</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bonebreak Fever</key>
+	<val>gorączka łamignata</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Brain Rot</key>
+	<val>zgnilizna mózgu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Brain Fever</key>
+	<val>gorączka mózgowa</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Brown Rot</key>
+	<val>zgnilec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Caliron's Curse</key>
+	<val>klątwa Calirona</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Chills</key>
+	<val>dreszcze</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Feeble Limb</key>
+	<val>słaba kończyna</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Red Death</key>
+	<val>czerwona śmierć</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Scarlet Fever</key>
+	<val>szkarłatna gorączka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Rattles</key>
+	<val>trzęsica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Red Rage</key>
+	<val>czerwony szał</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Rockjoint</key>
+	<val>skamienica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Rotbone</key>
+	<val>bezkościec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Rust Chancre</key>
+	<val>rdzawica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Shakes</key>
+	<val>drgawki</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Swamp Fever</key>
+	<val>bagienna gorączka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Stomach Rot</key>
+	<val>zgnilizna żołądka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Swamp Rot</key>
+	<val>bagienna zgnilizna</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ticklebritch</key>
+	<val>podrażnienie pośladków</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Tunnel Cough</key>
+	<val>sztolniowy kaszel</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wasting Consumption</key>
+	<val>wątlące suchoty</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Witbane</key>
+	<val>tępica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Witches' Pox</key>
+	<val>wiedźmia ospa</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wizard Fever</key>
+	<val>czarodziajska gorączka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wound Rot</key>
+	<val>gnijąca rana</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Yellow Rot</key>
+	<val>żółta zgnilizna</val>
+</record>
+
+<!--FAUNA-->
+<record>
+	<_id>Glossary</_id>
+	<key>Alit</key>
+	<val>alit</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ancestor Ghost</key>
+	<val>zjawa przodka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ascended Sleeper</key>
+	<val>lunatyk</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ash Ghoul</key>
+	<val>popielny ghul</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ash Slave</key>
+	<val>popielny niewolnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ash Vampire</key>
+	<val>popielny wampir</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ash Zombie</key>
+	<val>popielny zombi</val>
+</record>
+<record>
+	<_id>DIAL</_id>
+	<key>Bay Fish</key>
+	<val>zatocznica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Betty Netch</key>
+	<val>samica netcha</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bonelord</key>
+	<val>kościej</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bonewalker</key>
+	<val>truposz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bonewolf</key>
+	<val>wilczy ożywieniec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bull Netch</key>
+	<val>samiec netcha</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Cave Rat</key>
+	<val>szczur jaskiniowy</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Centurion Archer</key>
+	<val>centurion-łucznik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Centurion Sphere</key>
+	<val>kulisty centurion</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Centurion Spider</key>
+	<val>pajęczy centurion</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Clannfear</key>
+	<val>postrach klanów</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Cliff Racer</key>
+	<val>skrzekacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Corprus Stalker</key>
+	<val>zarażony spaczeniem</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Crippled Skeleton</key>
+	<val>kaleki szkielet</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Daedroth</key>
+	<key>daedroth</key>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dremora</key>
+	<key>dremora</key>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dremora Lord</key>
+	<val>książę dremor</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dreugh</key>
+	<val>Dreugh</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dreugh Warlord</key>
+	<val>wódz Dreughów</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Draugr</key>
+	<val>draugr</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Durzog</key>
+	<val>durzog</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dwarven Spectre</key>
+	<val>krasnoludzkie widmo</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Flame Atronach</key>
+	<val>atronach ognia</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Frost Antronach</key>
+	<val>atronach mrozu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Goblin</key>
+	<key>Goblin</key>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Golden Saint</key>
+	<val>złote bóstwo</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Grahl</key>
+	<val>grahl</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Greater Bonewalker</key>
+	<val>potężniejszy truposz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Guar</key>
+	<val>guar</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Horker</key>
+	<val>morsacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Hulking Fabricant</key>
+	<val>pajęczy mechanoid</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Hunger</key>
+	<val>żarłacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kagouti</key>
+	<val>kagouti</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kwama Forager</key>
+	<val>zwiadowca kwama</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kwama Queen</key>
+	<val>królowa kwama</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kwama Warrior</key>
+	<val>wojownik kwama</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kwama Worker</key>
+	<val>robotnik kwama</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lame Corprus</key>
+	<val>spaczony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lesser Bonewalker</key>
+	<val>słabszy truposz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lich</key>
+	<val>licz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Mudcrab</key>
+	<val>krab błotny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Nix-Hound</key>
+	<val>ogar</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ogrim</key>
+	<key>ogrim</key>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ogrim Titan</key>
+	<val>olbrzymi ogrim</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Rat</key>
+	<val>szczur</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Riekling</key>
+	<val>Riekling</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Riekling Raider</key>
+	<val>Riekling jeździec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Scamp</key>
+	<val>młokos</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Scrib</key>
+	<val>pędrak</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Shalk</key>
+	<val>skarabeusz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Silt Strider</key>
+	<val>łazik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Skeleton</key>
+	<val>szkielet</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Skeleton Archer</key>
+	<val>szkielet-łucznik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Skeleton Champion</key>
+	<val>szkielet-bohater</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Skeleton Warrior</key>
+	<val>szkielet-wojownik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Skeleton War-Wizard</key>
+	<val>szkielet</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Slaughterfish</key>
+	<val>zębacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Snow Bear</key>
+	<val>niedźwiedź śnieżny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Snow Wolf</key>
+	<val>wilk śnieżny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spriggan</key>
+	<val>spriggan</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Steam Centurion</key>
+	<val>parowy centurion</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Storm Atronach</key>
+	<val>atronach burz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Tusked Bristleback</key>
+	<val>sierściuch szablozęby</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Verminous Fabricant</key>
+	<val>jaszczurzy mechanoid</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Winged Twilight</key>
+	<val>skrzydlaty mrok</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wolf</key>
+	<val>wilk</val>
+</record>
+<!--FLORA-->
+<record>
+	<_id>Glossary</_id>
+	<key>Ampoule Pod</key>
+	<val>ampułka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ash Yam</key>
+	<val>popielna bulwa</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bittergreen Petals</key>
+	<val>płatki goryczaka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Black Anther</key>
+	<val>czarny pylnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Black Lichen</key>
+	<val>czarny licheń</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bloat</key>
+	<val>puchlina</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bluefoot</key>
+	<val>niebieskonóżka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Chokeweed</key>
+	<val>dławnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Coda flower</key>
+	<val>kwiat koda</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Comberry</key>
+	<val>czerniówka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Corkbulb Root</key>
+	<val>korzeń korkowca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Desert Siren</key>
+	<val>pustynna syrena</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Fire Petal</key>
+	<val>ognisty płatek</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Gold Kanet</key>
+	<val>złoty kanet</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Golden Sedge Flowers</key>
+	<val>kwiaty złotej turzycy</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Green Lichen</key>
+	<val>zielony licheń</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Hackle-Lo Leaf</key>
+	<val>liść przykrywca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Heather</key>
+	<val>wrzos</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Holly Berries</key>
+	<val>owoce ostrokrzewu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Horn Lily Bulb</key>
+	<val>bulwa dzwonnika</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kresh Fiber</key>
+	<val>włókno kresh</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lloramor Spines</key>
+	<val>narośla wypustkowca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Marsh Root</key>
+	<val>bagienny korzeń</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Marshmerrow</key>
+	<val>mokradłowiec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Meadow Rye</key>
+	<val>żyto łąkowe</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Nirthfly Stalks</key>
+	<val>łodyga złocika</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Noble Sedge Flowers</key>
+	<val>kwiaty królewskiej turzycy</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Red Lichen</key>
+	<val>czerwony licheń</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Roland’s Tear</key>
+	<val>łza Rolanda</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Roobrush</key>
+	<val>rumieniak</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Salt Rice</key>
+	<val>solny ryż</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Scrib Cabbage</key>
+	<val>pełzacza kapusta</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spore Pod</key>
+	<val>zarodnia</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Stoneflower Petals</key>
+	<val>płatki skałokwiatu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Sweetpulp</key>
+	<val>słodki miąższ</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Timsa-Come-By Flowers</key>
+	<val>kwiaty niewczasówki</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Trama Root</key>
+	<val>korzeń trama</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Unripened Belladonna Berries</key>
+	<val>niedojrzałe wilcze jagody</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wickwheat</key>
+	<val>wilcza pszenica</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Willow Anther</key>
+	<val>wierzbowy pylnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wolfsbane Petals</key>
+	<val>płatki tojadu</val>
+</record>
+<!--LOKACJE-->
+<record>
+	<_id>Glossary</_id>
+	<key>White-Gold Tower</key>
+	<val>Wieża z Białego Złota</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Winterhold</key>
+	<val>Zimowa Twierdza</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wasten Coridale</key>
+	<val>Jałowe Ugory</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Great Scathes</key>
+	<val>Głębokie Rany</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Shuderiah Plains</key>
+	<val>Równina Shuderiah</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Aegondo Point</key>
+	<val>Przylądek Aegondo</val>
+</record>
+
+<!--DAEDRYCZNE WYMIARY-->
+<record>
+	<_id>Glossary</_id>
+	<key>Moonshadow</key>
+	<val>Cień Księżyca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Snake Mount</key>
+	<val>Wężowa Góra</val>
+</record>
+<!--RANGI-->
+<record>
+	<_id>Glossary</_id>
+	<key>Clanfriend</key>
+	<val>Przyjaciel klanu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ashlanders</key>
+	<val>Hearthfriend</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Brother</key>
+	<val>Brat</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Initiate</key>
+	<val>Wtajemniczony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Clanholder</key>
+	<val>Członek klanu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Guide</key>
+	<val>Przewodnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Champion</key>
+	<val>Bohater</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Gulakhan</key>
+	<val>Gula-chan</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Farseer</key>
+	<val>Dalekowidzący</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ashkhan</key>
+	<val>Popielny chan</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Novice</key>
+	<val>Nowicjusz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Journeyman</key>
+	<val>Czeladnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Finder</key>
+	<val>Tropiciel</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Traveller</key>
+	<val>Podróżnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spy</key>
+	<val>Szpieg</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spymaster</key>
+	<val>Arcyszpieg</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Grand Spymaster</key>
+	<val>Szef wywiadu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bully</key>
+	<val>Łobuz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Tough</key>
+	<val>Twardziel</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Thug</key>
+	<val>Zbir</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Brute</key>
+	<val>Brutal</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lifetaker</key>
+	<val>Zabójca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Chiller</key>
+	<val>Uciszacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Hammer</key>
+	<val>Mięśniak</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Old Man</key>
+	<val>Mędrzec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Strongman</key>
+	<val>Siłacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kingpin</key>
+	<val>Ważniak</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Clerk</key>
+	<val>Urzędnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Taxman</key>
+	<val>Poborca podatkowy</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Taxtaker</key>
+	<val>Komornik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Excise Officer</key>
+	<val>Oficer</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Inspector</key>
+	<val>Inspektor</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Grand Inspector</key>
+	<val>Nadinspektor</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Cattle</key>
+	<val>Bydło</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Neonate</key>
+	<val>Nowonarodzony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Minion</key>
+	<val>Sługus</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Servant</key>
+	<val>Służący</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Stalker</key>
+	<val>Prześladowca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bloodkin</key>
+	<val>Brat krwi</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Reaver</key>
+	<val>Żniwiarz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lord</key>
+	<val>Lord</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Elder</key>
+	<val>Starszy</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ancient</key>
+	<val>Pradawny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Operator</key>
+	<val>Pomocnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wetboy</key>
+	<val>Spiskowiec</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Executioner</key>
+	<val>Egzekutor</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Punisher</key>
+	<val>Mściciel</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Terminator</key>
+	<val>Morderca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Assassin</key>
+	<val>Skrytobójca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Dark Brother</key>
+	<val>Mroczny Brat</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Master Assassin</key>
+	<val>Mroczny Mistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Underling</key>
+	<val>Sługa</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Steward</key>
+	<val>Zarządca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Fixer</key>
+	<val>Lobbysta</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Agent</key>
+	<val>Reprezentant [Kompania Wschodniocesarska] / Wywiadowca [Legion Cesarski]</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Negotiator</key>
+	<val>Negocjator</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Officer</key>
+	<val>Oficer</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Deputy</key>
+	<val>Przedstawiciel</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Factor</key>
+	<val>Syndyk</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Associate</key>
+	<val>Zrzeszony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Swordsman</key>
+	<val>Szermierz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Protector</key>
+	<val>Opiekun</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Defender</key>
+	<val>Obrońca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Warder</key>
+	<val>Stróż</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Guardian</key>
+	<val>Strażnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Master</key>
+	<val>Mistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Hireling</key>
+	<val>Najemny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Retainer</key>
+	<val>Przyboczny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Oathman</key>
+	<val>Zaprzysiężony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Lawman</key>
+	<val>Radca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Kinsman</key>
+	<val>Krewny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>House Cousin</key>
+	<val>Kuzyn Rodu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>House Brother</key>
+	<val>Brat Rodu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>House Father</key>
+	<val>Ojciec Rodu</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Councilman</key>
+	<val>Członek rady</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Grandmaster</key>
+	<val>Arcymistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Layman</key>
+	<val>Niewtajemniczony</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Acolyte</key>
+	<val>Akolita</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Adept</key>
+	<val>Adept</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Disciple</key>
+	<val>Wyznawca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Oracle</key>
+	<val>Wyrocznia</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Invoker</key>
+	<val>Wzywający</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Theurgist</key>
+	<val>Cudotwórca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Primate</key>
+	<val>Prymas</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Aspirant</key>
+	<val>Kandydat</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Squire</key>
+	<val>Giermek</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Gallant</key>
+	<val>Galant</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Chevalier</key>
+	<val>Kawaler</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Keeper</key>
+	<val>Strażnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight Brother</key>
+	<val>Rycerz Zakonny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Commander</key>
+	<val>Dowódca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Marshal</key>
+	<val>Marszałek</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Seneschal</key>
+	<val>Seneszal</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Paladin</key>
+	<val>Paladyn</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Recruit</key>
+	<val>Rekrut</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spearman</key>
+	<val>Pikinier</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Trooper</key>
+	<val>Legionista</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight Errant</key>
+	<val>Rycerz Wędrowny</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight Bachelor</key>
+	<val>Kawaler</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight Protector</key>
+	<val>Obrońca</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight of the Garland</key>
+	<val>Błędny Rycerz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knight of the Imperial Dragon</key>
+	<val>Rycerz Cesarskiego Smoka</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Apprentice</key>
+	<val>Terminator</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Evoker</key>
+	<val>Iluzjonista</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Conjurer</key>
+	<val>Przywoływacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Magician</key>
+	<val>Magik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Warlock</key>
+	<val>Czarnoksiężnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wizard</key>
+	<val>Czarodziej</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Master Wizard</key>
+	<val>Mistrz Magii</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Arch-Mage</key>
+	<val>Arcymag</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Blind Thrall</key>
+	<val>Ślepe narzędzie</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Thrall</key>
+	<val>Narzędzie</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>White Thrall</key>
+	<val>Ścierwo</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Thinker</key>
+	<val>Myślący</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Knower</key>
+	<val>Wiedzący</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Exalted Master</key>
+	<val>Szlachetny Mistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Nerevarine</key>
+	<val>Nerevaryjczyk</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Archmaster</key>
+	<val>Arcymistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Guard</key>
+	<val>Strażnik</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Captain</key>
+	<val>Kapitan [Straż Królewska] / Herszt [Gildia Złodziei]</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Mouth</key>
+	<val>Głos</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Spellwright</key>
+	<val>Zaklinacz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Magister</key>
+	<val>Profesor Nauk Magicznych</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Archmagister</key>
+	<val>Arcymistrz</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Curate</key>
+	<val>Kapelan</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Diviner</key>
+	<val>Wróż</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Patriarch</key>
+	<val>Patriarcha</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Toad</key>
+	<val>Ropucha</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Wet Ear</key>
+	<val>Uszaty</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Footpad</key>
+	<val>Podnóżek</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Blackcap</key>
+	<val>Czarna kapuza</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Operative</key>
+	<val>Agent</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Bandit</key>
+	<val>Bandzior</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Ringleader</key>
+	<val>Szef</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Mastermind</key>
+	<val>Mózg</val>
+</record>
+<record>
+	<_id>Glossary</_id>
+	<key>Master Thief</key>
+	<val>Arcyzłodziej</val>
+</record>
